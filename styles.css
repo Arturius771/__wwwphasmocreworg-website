@@ -3,14 +3,14 @@ body{
     height: 100%;
     font-size: 20px;	
     font-family: Arial, Helvetica, sans-serif;
-	color: #ffffff;	    
+    color: #ffffff;	    
     margin: auto;
     background-color: #353535;
 }
 
 a{
-	color: #ffffff;	
-	font-weight: bold;
+    color: #ffffff;
+    font-weight: bold;
     text-decoration: none;
     margin: 15px;	
 }
