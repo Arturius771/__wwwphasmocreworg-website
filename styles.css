@@ -5,7 +5,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     color: #ffffff;	    
     margin: auto;
-    background-color: #353535;
+    background-color: hsl(0, 43%, 37%);
 }
 
 a{
